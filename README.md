@@ -1,2 +1,2 @@
 # SignalR
-SignalRSingleChat
+SignalRSimpleChat
